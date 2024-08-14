@@ -47,4 +47,4 @@ if ingrediant_list:
         
 
 # st.text(fruityvice_response.json())
-fv_df = st.dataframe(data=fruityvice_response.json(), use_container_width=True)
+# fv_df = st.dataframe(data=fruityvice_response.json(), use_container_width=True)
